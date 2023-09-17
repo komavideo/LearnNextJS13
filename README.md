@@ -2,7 +2,7 @@
 
 ## Next.js
 
-+ Next.js基础(/nextweb-basic)
++ [Next.js基础](/nextweb-basic)
 
 ## 小马视频频道
 
