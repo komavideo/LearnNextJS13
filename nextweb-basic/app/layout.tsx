@@ -21,7 +21,7 @@ export default function RootLayout({
         <div className='bg-slate-800 text-white w-full text-3xl py-3 px-2 shadow'>
           <Link href="/">Next.js</Link>
         </div>
-        <div className=' px-2 py-3'>
+        <div className='px-2'>
           {children}
         </div>
       </body>
