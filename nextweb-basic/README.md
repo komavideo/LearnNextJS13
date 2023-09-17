@@ -25,3 +25,12 @@ npm run dev
 npm run build
 npm start
 ```
+
+## Docker
+
+```bash
+docker build -t komavideo/nextweb-basic:1.0 .
+docker image ls
+docker run --name nextweb-basic -d -p 3000:3000 komavideo/nextweb-basic:1.0
+curl http://localhost:3000
+```
