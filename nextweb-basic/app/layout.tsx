@@ -16,7 +16,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html lang="en" data-theme="winter">
       <body className={inter.className}>
         <div className='bg-slate-800 text-white w-full text-3xl py-3 px-2 shadow'>
           <Link href="/">Next.js</Link>
